@@ -7,6 +7,7 @@ line-height: 1.375;
 }
 
 .page-header{
+    text-decoration: none;
 }
 .page-header__nav-link{
     margin: 0 25px ;
@@ -17,4 +18,5 @@ line-height: 1.375;
     text-decoration: none;
 }
 .page-footer{
+    text-decoration: none;
 }
